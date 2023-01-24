@@ -10,8 +10,8 @@ class Title extends React.Component {
     );
   }
 }
-// headline.Proptypes = {
-//   headline: PropTypes.string,
-// };
+Title.propTypes = {
+  headline: PropTypes.string,
+}.isRequired;
 
 export default Title;
