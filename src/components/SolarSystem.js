@@ -8,7 +8,7 @@ class SolarSystem extends React.Component {
   render() {
     // const { Planets } = this.props;
     // console.log(this.props);
-    console.log(planets);
+    // console.log(planets);
     return (
       <div data-testid="solar-system">
         <Title headline="Planetas" />
