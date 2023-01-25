@@ -3,7 +3,6 @@
 }
 
 body {
-
   background-color: black;
   background-image: url('./images/background.png');
 }
@@ -61,7 +60,6 @@ h2 {
   align-items: center;
   color: white;
   display: flex;
-  flex-wrap: nowrap;
   flex-direction: column;
 }
 
